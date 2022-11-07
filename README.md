@@ -2,6 +2,8 @@
 
 ------Certificados de cursos de curta e longa duração e workshops---------
 
+KA SOLUTIONS (11/2022): Data Engineering on Microsoft Azure (DP-203) - 32h
+
 SAMSUNG OCEAN (01/2020): Oficina de Prototipação - 3h
 
 SAMSUNG OCEAN (01/2020): Oficina de Usabilidade - 3h
